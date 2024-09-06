@@ -1,5 +1,7 @@
 # Taller Funcional
 
+## De Samuel Marín Soto
+
 Para ejecutar en el intérprete, cargar con
 
 `$ racket archivo.rkt`
